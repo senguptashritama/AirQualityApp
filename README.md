@@ -1,9 +1,5 @@
 # Air Quality Forecasting with Flask
 
-## Abstract
-
-This project presents an **Air Quality Forecasting System**, leveraging Flask and advanced machine learning techniques. By utilizing extensive historical air quality data and meteorological parameters, the system delivers accurate predictions of the **Air Quality Index (AQI)** for any chosen city and date. The user-friendly web interface allows users to select their city, date, and preferred prediction model, enhancing interaction and accessibility. This tool serves policymakers, environmentalists, and the public, fostering informed decision-making to combat air pollution.
-
 ## Introduction
 
 As urbanization, industrialization, and environmental concerns rise, air quality has become a critical issue impacting public health and sustainability. This project introduces an advanced **Air Quality Forecasting System**, built with Flask and sophisticated machine learning models, aimed at delivering precise AQI forecasts tailored to specific cities and dates. By utilizing historical air quality data and meteorological parameters, the system applies diverse machine learning algorithms—such as Linear Regression, Random Forest Regression, and XGBoost—to generate highly accurate AQI predictions.
