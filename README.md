@@ -2,7 +2,7 @@
 
 ## Abstract
 
-This project presents an **Air Quality Forecasting System**, leveraging Flask and advanced machine learning techniques. By utilizing extensive historical air quality data and meteorological parameters, the system delivers accurate predictions of the **Air Quality Index (AQI)** for any chosen city and date. The user-friendly web interface allows users to select their city, date, and preferred prediction model, enhancing interaction and accessibility. The platform dynamically updates available dates based on the selected city, ensuring relevant predictions. Utilizing a variety of trained models—including Linear Regression, Random Forest Regression, and XGBoost—this system optimizes prediction accuracy and reliability. Additionally, the output page displays various parameters alongside the AQI prediction, empowering users with comprehensive insights into air quality dynamics and potential health impacts. This tool serves policymakers, environmentalists, and the public, fostering informed decision-making to combat air pollution.
+This project presents an **Air Quality Forecasting System**, leveraging Flask and advanced machine learning techniques. By utilizing extensive historical air quality data and meteorological parameters, the system delivers accurate predictions of the **Air Quality Index (AQI)** for any chosen city and date. The user-friendly web interface allows users to select their city, date, and preferred prediction model, enhancing interaction and accessibility. This tool serves policymakers, environmentalists, and the public, fostering informed decision-making to combat air pollution.
 
 ## Introduction
 
@@ -10,7 +10,6 @@ As urbanization, industrialization, and environmental concerns rise, air quality
 
 Key parameters influencing air quality dynamics, including PM2.5, PM10, NO, NO2, NOx, NH3, CO, SO2, O3, Benzene, Toluene, and Xylene, are integrated into the forecasting models. This integration provides stakeholders with comprehensive information on air quality variations and health risks, enabling informed decisions and targeted interventions. The intuitive web interface further enhances user engagement, allowing seamless selection of cities, dates, and prediction models.
 
-By bridging technology and environmental science, this system aims to empower stakeholders to mitigate the adverse effects of air pollution and promote healthier communities.
 
 ## Data Preprocessing
 
